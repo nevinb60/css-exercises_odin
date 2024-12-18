@@ -1,0 +1,17 @@
+.odd {
+    background-color: pink;
+}
+
+.bold {
+    font-size: larger;
+}
+
+#green {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.even {
+    color: blue;
+    font-size: x-large;
+}
